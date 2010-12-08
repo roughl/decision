@@ -1,0 +1,6 @@
+= Usage =
+The tools takes n args, chooses a random one and prints it to stdout
+
+= Building =
+gcc -o decision decision.c
+
